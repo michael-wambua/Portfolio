@@ -37,8 +37,8 @@ The website includes the following sections:
 
 1. **Clone the repository:**
    ```
-   git clone https://github.com/yourusername/portfolio-website.git
-   cd portfolio-website
+   git clone https://github.com/michael-wambua/Portfolio.git
+   cd portfolio
    ```
 
 2. **Open the project:**
@@ -49,10 +49,7 @@ The website includes the following sections:
    - Using VS Code:
      - Install the "Live Server" extension
      - Right-click on `index.html` and select "Open with Live Server"
-   - Using npm:
-     - Install Node.js and npm
-     - Install live-server: `npm install -g live-server`
-     - Run: `live-server` in the project directory
+  
 
 4. **Test responsiveness:**
    - Use browser developer tools (F12 or Ctrl+Shift+I) to test different screen sizes
@@ -71,11 +68,6 @@ The website includes the following sections:
    - Drag and drop your project folder to Netlify's upload area or connect your GitHub repository
    - Your site will be deployed with a Netlify subdomain
 
-3. **Vercel:**
-   - Sign up for Vercel
-   - Connect your GitHub repository
-   - Follow the setup instructions
-   - Your site will be deployed with automatic updates on each push
 
 ## Setup and Installation
 
@@ -93,12 +85,6 @@ To personalize this portfolio:
 - Modify the color scheme in `style.css` to match your personal brand
 - Add or remove sections based on your specific needs
 
-## Future Enhancements
-
-- Add a blog section for sharing technical articles
-- Implement dark/light mode toggle
-- Create individual project pages with more detailed information
-- Add testimonials from colleagues or clients
 
 ## License
 
