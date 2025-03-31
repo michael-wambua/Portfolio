@@ -1,6 +1,6 @@
 # Portfolio Website
 
-# Live Demeo here   https://michael-wambua.github.io/Portfolio/
+# Live Demo here   https://michael-wambua.github.io/Portfolio/
 
 A fully responsive personal portfolio website to showcase my skills, experience, and projects to potential employers.
 
